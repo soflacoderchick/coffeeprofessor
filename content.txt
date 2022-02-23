@@ -1,0 +1,22 @@
+﻿
+Getting Started in Bootstrap
+Coffee Professor
+
+
+Sunday Closed
+Monday 8:00 AM to 8:00 PM
+Tuesday 8:00 AM to 8:00 PM
+Wednesday 8:00 AM to 8:00 PM
+Thursday 8:00 AM to 10:00 PM
+Friday 8:00 AM to 11:00 PM
+Saturday 10:00 AM to 5:00 PM
+
+123 Main Street
+
+Boca Raton, FL
+Call Anytime
+561-555-1234
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <em>Excepteur sint occaecat</em> cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
