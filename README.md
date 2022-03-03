@@ -1,6 +1,6 @@
 # coffeeprofessor
 A simple static website created during the Bootstrap module of my 5-month certified web developer bootcamp. 
-The instructor gave us this image https://bit.ly/3IIwl8O and we were told to reproduce it from scratch as a static website (i.e., no code provided). 
+The instructor gave us the copy/text and this image https://bit.ly/3IIwl8O and we were told to reproduce it from scratch as a static website (i.e., no code provided). 
 It's just basic HTML and CSS, but I really wanted to get the colors right as well as positioning of the elements. 
 I added a hover property for the navbar buttons just for fun (as you can see they don't link to anything).
 Since this is a static website and Heroku doesn't host static websites, just apps, a little workaround was employed to deploy the project to Heroku: before logging into Heroku,
